@@ -115,7 +115,7 @@ It is part of a broader AI visibility intelligence stack including:
 
 Proof of Concept complete.
 
-Future enhancements may include:
+## Future enhancements may include:
 
 - Optimization recommendation engine
 - Audit persistence layer
